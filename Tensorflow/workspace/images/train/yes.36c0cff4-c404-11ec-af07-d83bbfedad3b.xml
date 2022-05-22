@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>yes.36c0cff4-c404-11ec-af07-d83bbfedad3b.jpg</filename>
+	<path>C:\Users\visha\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\yes.36c0cff4-c404-11ec-af07-d83bbfedad3b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>299</ymin>
+			<xmax>437</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.23443e02-c404-11ec-8383-d83bbfedad3b.jpg</filename>
+	<path>C:\Users\visha\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\thanks.23443e02-c404-11ec-8383-d83bbfedad3b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
